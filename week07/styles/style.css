@@ -1,0 +1,64 @@
+html{
+    font-size: 15px;
+    font-family: 'Patrick Hand', cursive;
+    background-color: #E59998;
+}
+
+body {
+    display: grid;
+    justify-content: center;
+    grid-template-columns: repeat (5, 20%);
+    grid-template-rows: repeat (5, 20%);
+    grid-gap: 10px;
+
+}
+
+h1 {
+    font-size: 70px;
+    text-align: center;
+    margin: 0;
+    padding: 10px 0;
+    color: rgba(54,32,180,0.692);
+    text-shadow: 10px 5px 2px #538790;
+}
+
+h2 {
+    font-size: 30px;
+    text-align: center;
+    margin: 0;
+    padding: 10px 0;
+    color: #538790;
+}
+
+div {
+    display: flex;
+    width: 530px;
+    font-size: 20px;
+    color: #033749;
+    padding: 30px 30px 30px 30px;
+    border: 5px solid #033749;
+    margin: 50px;
+    background-color: powderblue;
+
+}
+
+.response {
+    display: flex;
+    width: 530px;
+    font-size: 20px;
+    text-align: center;
+    color: #033749;
+    padding: 30px 30px 30px 30px;
+    border: 5px solid #033749;
+    margin: 50px;
+    background-color: powderblue;
+
+}
+
+
+
+
+
+
+
+  
