@@ -242,3 +242,19 @@ h1{
     margin-left: auto;
     margin-right: auto;
   }
+
+  .wireframe{
+    display: flex;
+      flex-wrap: wrap;
+      align-items: flex-start;
+      justify-content: center;
+      margin-top: -550px;
+      margin-left: auto;
+      margin-right: auto;
+  }
+
+  .wireframe img{
+    float: left;
+    width: 55%;
+    padding: 10px;
+  }
