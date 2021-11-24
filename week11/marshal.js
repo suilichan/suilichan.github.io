@@ -45,13 +45,4 @@ function forthfunc(){
     }
 }
 
-
-var theFifth = document.getElementById("fifth");
-theFifth.addEventListener('click', fifthfunc);
-
-function fifthfunc(){
-    console.log("clicked!");
-    theFifth.onclick = function () {
-        theFifth.innerHTML = "Our “Age of Anxiety” is, in great part, the result of trying to do today's job with yesterday's tools"
-    }
 }
