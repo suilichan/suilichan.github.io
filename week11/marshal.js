@@ -43,6 +43,5 @@ function forthfunc(){
         theForth.innerHTML = "When information is brushed against information the results are startling and effective"
 
     }
-}
 
 }
