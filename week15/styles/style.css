@@ -79,6 +79,7 @@ button{
 button:hover{
     background-color:#1E2640;
 }
+
 img {
     max-width: 100%;
     display: block;
@@ -118,7 +119,7 @@ li {
 
 }
   
-.meal {
+.recipe {
     margin: 20px 0;
 }
   
